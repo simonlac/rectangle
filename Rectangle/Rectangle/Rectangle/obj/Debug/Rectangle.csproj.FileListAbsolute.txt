@@ -1,0 +1,15 @@
+C:\Users\18196\source\repos\Rectangle\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Users\18196\source\repos\Rectangle\Rectangle\bin\Debug\Rectangle.exe
+C:\Users\18196\source\repos\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\18196\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.AssemblyReference.cache
+C:\Users\18196\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\18196\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.exe
+C:\Users\18196\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.pdb
+H:\windows programming\Rectangle\Rectangle\Rectangle\bin\Debug\Rectangle.exe.config
+H:\windows programming\Rectangle\Rectangle\Rectangle\bin\Debug\Rectangle.exe
+H:\windows programming\Rectangle\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+H:\windows programming\Rectangle\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.AssemblyReference.cache
+H:\windows programming\Rectangle\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.SuggestedBindingRedirects.cache
+H:\windows programming\Rectangle\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+H:\windows programming\Rectangle\Rectangle\Rectangle\obj\Debug\Rectangle.exe
+H:\windows programming\Rectangle\Rectangle\Rectangle\obj\Debug\Rectangle.pdb
